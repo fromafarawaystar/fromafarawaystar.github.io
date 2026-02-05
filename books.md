@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: "Books"
 permalink: /books/
+author_profile: true
 ---
 
 ## From a Faraway Star

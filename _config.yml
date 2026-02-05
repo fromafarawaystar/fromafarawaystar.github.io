@@ -3,13 +3,23 @@ tagline: "Author of the From a Faraway Star series"
 description: "Official author site of Ferdinando Simonetti, Italian writer of science fiction and historically inspired speculative stories."
 url: "https://fromafarawaystar.github.io"
 baseurl: ""
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
 
 author:
   name: "Ferdinando Simonetti"
-  email: "rimmon197111@gmail.com"
+  avatar: "/images/author.jpg"
   bio: "Italian author from Genoa, blending imaginative storytelling with a background in engineering and IT."
-  github_username: fromafarawaystar
+  location: "Genoa, Italy"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:rimmon197111@gmail.com"
+    - label: "TikTok"
+      icon: "fab fa-tiktok"
+      url: "https://www.tiktok.com/@writer_rimmon1971"
 
 header_pages:
   - about.md
