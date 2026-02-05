@@ -1,6 +1,20 @@
-title: "Ferdinando Simonetti - Author"
-email: "rimmon197111@gmail.com"
-description: "Science fiction author exploring belonging and meeting."
-baseurl: ""      # leave empty for user site
+title: "Ferdinando Simonetti"
+tagline: "Author of the From a Faraway Star series"
+description: "Official author site of Ferdinando Simonetti, Italian writer of science fiction and historically inspired speculative stories."
 url: "https://fromafarawaystar.github.io"
+baseurl: ""
+theme: minima
+
+author:
+  name: "Ferdinando Simonetti"
+  email: "rimmon197111@gmail.com"
+  bio: "Italian author from Genoa, blending imaginative storytelling with a background in engineering and IT."
+  github_username: fromafarawaystar
+
+header_pages:
+  - about.md
+  - books.md
+  - contact.md
+
 markdown: kramdown
+permalink: /:year/:month/:day/:title/

@@ -1,14 +1,13 @@
 ---
-layout: page
-title: "Home"
+layout: home
+title: "Ferdinando Simonetti"
 ---
 
-<img src="images/author.jpg" alt="Author photo" class="author-photo">
+Welcome to the official site of **Ferdinando Simonetti**, Italian author of the
+*From a Faraway Star* series.
 
-Hello! I'm **Ferdinando Simonetti**, a science fiction author exploring themes such as belonging, evolving, and surviving.  
-Welcome to my official author website!
+Here you will find:
 
-## Featured Books
-
-- <img src="images/cover1.jpg" alt="From a faraway star cover" class="book-cover">
-- <img src="images/cover2.jpg" alt="Shar-3 cover" class="book-cover">
+- Information about my novels *From a Faraway Star* and *Shar-3*
+- Updates on future books in the series
+- Notes on research, worldbuilding, and influences
