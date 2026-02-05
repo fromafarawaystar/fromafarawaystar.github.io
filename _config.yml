@@ -1,7 +1,7 @@
 title: "Ferdinando Simonetti"
 tagline: "Author of the From a Faraway Star series"
 description: "Official author site of Ferdinando Simonetti, Italian writer of science fiction and historically inspired speculative stories."
-url: "https://fromafarawaystar.github.io"
+url: "https://fromafarawaystar.com"
 baseurl: ""
 remote_theme: "mmistakes/minimal-mistakes"
 
@@ -20,11 +20,6 @@ author:
     - label: "TikTok"
       icon: "fab fa-tiktok"
       url: "https://www.tiktok.com/@writer_rimmon1971"
-
-header_pages:
-  - about.md
-  - books.md
-  - contact.md
 
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
