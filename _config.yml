@@ -3,4 +3,4 @@ email: "rimmon197111@gmail.com"
 description: "Science fiction author exploring belonging and meeting."
 baseurl: ""      # leave empty for user site
 url: "https://fromafarawaystar.github.io"
-theme: writers-zone
+theme: minimal
