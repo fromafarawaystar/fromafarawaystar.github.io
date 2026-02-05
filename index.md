@@ -3,12 +3,12 @@ layout: page
 title: "Home"
 ---
 
-![Author Photo](images/author.jpg)
+<img src="images/author.jpg" alt="Author photo" class="author-photo">
 
 Hello! I'm **Ferdinando Simonetti**, a science fiction author exploring themes such as belonging, evolving, and surviving.  
 Welcome to my official author website!
 
 ## Featured Books
 
-- [From a faraway star](books.html#fromafarawaystar)
-- [Shar-3](books.html#shar3)
+- <img src="images/cover1.jpg" alt="From a faraway star cover" class="book-cover">
+- <img src="images/cover2.jpg" alt="Shar-3 cover" class="book-cover">
