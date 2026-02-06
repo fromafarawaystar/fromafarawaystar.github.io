@@ -9,6 +9,9 @@ lang: en
 plugins:
   - jekyll-include-cache
 
+paginate: 5
+paginate_path: /page:num/
+
 author:
   name: "Ferdinando Simonetti"
   avatar: "/images/author.jpg"

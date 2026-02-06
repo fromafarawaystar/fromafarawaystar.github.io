@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 lang: en
 title: "Ferdinando Simonetti"
 permalink: /
@@ -16,3 +16,6 @@ Here you will find:
 - Information about my novels *From a Faraway Star* and *Shar-3*
 - Updates on future books in the series  
 - Notes on research, worldbuilding, and influences
+
+---
+
