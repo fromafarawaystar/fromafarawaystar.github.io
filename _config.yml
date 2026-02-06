@@ -9,9 +9,13 @@ lang: en
 plugins:
   - jekyll-include-cache
   - jekyll-paginate
+  - jekyll-feed
 
 paginate: 5
 paginate_path: /page:num/
+
+atom_feed:
+  path: /feed.xml
 
 author:
   name: "Ferdinando Simonetti"
