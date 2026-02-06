@@ -2,7 +2,7 @@
 layout: single
 lang: en
 title: "About"
-permalink: /about-en.html
+permalink: /about/
 author_profile: true
 ---
 
@@ -28,5 +28,3 @@ his technical expertise.
 
 Ferdinando lives in Genoa, in the heart of Liguria, where he enjoys reading,
 writing, practicing *iaido* and *kendo* and exploring new worlds through both books and his own imagination.
-
-[<a href="/about-it.html">🇮🇹 Italiano</a>]

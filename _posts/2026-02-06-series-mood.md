@@ -2,7 +2,7 @@
 layout: single
 lang: en
 title: "The mood of the From a Faraway Star series"
-permalink: /en/series-mood/
+permalink: /series-mood/
 author_profile: true
 excerpt: "What kind of stories you will (and will not) find in the From a Faraway Star series."
 categories: [series, mood]
@@ -39,4 +39,3 @@ The main characters are often very young, at that point in life when emotions ar
 
 But it is not only a story for young readers: it deals with responsibility, compromise, politics, and long‑term consequences. If you’re interested in science fiction that tries to respect physics, that does not offer easy answers, and that uses starships and aliens to talk about people, then this series is meant for you.
 
-[<a href="/books-en.html">🇺🇸 The series</a>]

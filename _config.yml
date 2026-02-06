@@ -9,19 +9,6 @@ lang: en
 plugins:
   - jekyll-include-cache
 
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "single"
-      author_profile: true
-      read_time: true
-  - scope:
-      path: "it"
-    values:
-      lang: it
-
 author:
   name: "Ferdinando Simonetti"
   avatar: "/images/author.jpg"
