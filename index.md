@@ -2,7 +2,6 @@
 layout: home
 lang: en
 title: "Ferdinando Simonetti"
-permalink: /
 header:
   overlay_image: /images/cover1.jpg
   overlay_filter: 0.4

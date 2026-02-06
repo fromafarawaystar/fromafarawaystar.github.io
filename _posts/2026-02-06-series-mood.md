@@ -3,6 +3,7 @@ layout: single
 lang: en
 title: "The mood of the From a Faraway Star series"
 permalink: /series-mood/
+date: 2026-02-06
 author_profile: true
 excerpt: "What kind of stories you will (and will not) find in the From a Faraway Star series."
 categories: [series, mood]
