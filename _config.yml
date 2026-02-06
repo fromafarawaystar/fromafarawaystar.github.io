@@ -4,9 +4,23 @@ description: "Official author site of Ferdinando Simonetti, Italian writer of sc
 url: "https://fromafarawaystar.com"
 baseurl: ""
 remote_theme: "mmistakes/minimal-mistakes"
+lang: en
 
 plugins:
   - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      author_profile: true
+      read_time: true
+  - scope:
+      path: "it"
+    values:
+      lang: it
 
 author:
   name: "Ferdinando Simonetti"

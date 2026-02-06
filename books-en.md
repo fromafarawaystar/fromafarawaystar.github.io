@@ -1,7 +1,8 @@
 ---
 layout: single
+lang: en
 title: "Books"
-permalink: /books/
+permalink: /books-en.html
 author_profile: true
 ---
 

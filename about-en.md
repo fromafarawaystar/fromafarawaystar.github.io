@@ -1,7 +1,8 @@
 ---
 layout: single
+lang: en
 title: "About"
-permalink: /about/
+permalink: /about-en.html
 author_profile: true
 ---
 
@@ -26,5 +27,6 @@ the world of fiction, crafting tales that blend imaginative storytelling with
 his technical expertise.
 
 Ferdinando lives in Genoa, in the heart of Liguria, where he enjoys reading,
-writing, and exploring new worlds through both books and his own imagination.
+writing, practicing *iaido* and *kendo* and exploring new worlds through both books and his own imagination.
 
+[<a href="/about-it.html">🇮🇹 Italiano</a>]

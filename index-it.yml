@@ -1,0 +1,28 @@
+---
+layout: splash
+lang: it  
+title: "Ferdinando Simonetti"
+header:
+  overlay_image: /images/cover1.jpg
+  overlay_filter: 0.4
+  caption: "Serie From a Faraway Star"
+---
+
+<script>
+if (navigator.language && !navigator.language.startsWith('it')) {
+  window.location.href = '/index-en.html';
+}
+</script>
+
+Benvenuti nel sito ufficiale di **Ferdinando Simonetti**, autore italiano della serie *From a Faraway Star*.
+
+Qui troverete:
+- Informazioni sui miei romanzi *From a Faraway Star* e *Shar-3*
+- Aggiornamenti sui prossimi libri della serie
+- Appunti su ricerche, worldbuilding e influenze
+
+[<a href="/index-en.html">🇺🇸 English</a>]
+
+<div class="feature__wrap">
+  {% include feature_row %}
+</div>

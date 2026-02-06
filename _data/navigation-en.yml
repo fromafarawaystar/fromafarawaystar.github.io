@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /index-en.html
+  - title: "About"
+    url: /about-en.html
+  - title: "Books"
+    url: /books-en.html
+  - title: "Contact"
+    url: /contact-en.html
