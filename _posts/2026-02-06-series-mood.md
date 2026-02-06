@@ -24,7 +24,7 @@ In this series you won’t find OP protagonists, nor harems of green, lithe, obl
 
 No supermen or superwomen; well, someone with exceptional traits does exist, but I won’t say more so as not to spoil the surprises.
 
-No admirals who, while their ship is pulling 500 g, calmly give orders with a coffee in hand; no artificial gravity, no hand‑wavy shields.
+No admirals who, while their ship is pulling 500 g, calmly give orders with a coffee in hand; no artificial gravity, no force shields.
 
 <!-- What you WILL find -->
 You will find people.
