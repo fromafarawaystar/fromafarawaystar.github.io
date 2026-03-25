@@ -14,4 +14,8 @@ Hello everybody!
 
 In short, the third book in the series will feature **far more action** than the first two combined! 
 
-But with higher stakes will come greater consequences. **Worlds-shaking** consequences. **Empires-shaking** consequences.
+But with higher stakes will come greater consequences. 
+
+**Worlds-shaking** consequences. 
+
+**Empires-shaking** consequences.
