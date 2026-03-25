@@ -7,5 +7,7 @@ main:
     url: /books/
   - title: "Contact"
     url: /contact/
+  - title: "Characters"
+    url: /characters/
   - title: "RSS"
     url: /feed.xml
