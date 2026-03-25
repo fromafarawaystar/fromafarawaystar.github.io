@@ -6,7 +6,7 @@ permalink: /about/
 author_profile: true
 ---
 
-![Ferdinando Simonetti](/images/author.jpg)
+![Ferdinando Simonetti](/images/foto-volto.jpg)
 
 Ferdinando Simonetti is an Italian author making his literary debut with the
 *From a Faraway Star* series. Born and raised in the picturesque region of
