@@ -10,9 +10,18 @@ author_profile: true
 
 ![From a Faraway Star cover](/images/cover1.jpg)
 
-When a giant colony ship along with its escorts emerges from deep space in 1866, the world changes overnight.
-The Kilrathi—lion-like settlers from Kilrath Prime—came looking for a new beginning, not expecting to find railroads, armies, or the bustling frontier of post–Civil War America.
-Thrown together by chance and necessity, humans and Kilrathi must navigate suspicion, opportunity, and the messy business of coexistence. 
+An alien colony ship appears over Earth in 1866 — and nothing will ever be the same.
+
+The Kilrathi, lion-like settlers from a distant star, arrive seeking a new beginning. Instead, they find a divided America still recovering from civil war, where fear spreads faster than understanding.
+
+For Claire Zadowsky, a fugitive with nothing left to lose, survival means staying invisible.
+For Zhara nar Korith, a young Kilrathi torn between duty and curiosity, Earth is a world that challenges everything she has been taught.
+
+When their paths collide, an unlikely alliance forms — one that could shape the fragile future between two civilizations.
+
+But as tensions rise and mistrust deepens, coexistence may come at a cost neither side is ready to pay.
+
+A gripping blend of hard science fiction, alternate history, and first contact, From a Faraway Star explores what happens when two worlds meet — not in war, but in uncertainty.
 
 Links:
 - [Amazon US](https://www.amazon.com/dp/B0G4F97L4H)
@@ -25,9 +34,23 @@ Links:
 
 ![Shar-3 cover](/images/cover2.jpg)
 
-Shar-3 is not the story of a first encounter, but of everything that follows it.
-This book unfolds in the aftermath of contact, where coexistence has become routine and therefore political.
-This is a story about integration that is never complete, authority that is never absolute, and progress that always carries a shadow. It does not offer simple answers or clean moral victories. Instead, it observes how civilizations test one another—not always with weapons, but with laws, customs, economies, and silence.
+First contact was only the beginning.
+
+Now, the real struggle begins.
+
+As humans and Kilrathi attempt to coexist, what once felt like hope begins to fracture under pressure. Politics replaces curiosity. Power replaces trust.
+
+On Earth and beyond, alliances are no longer built on understanding — but on strategy, control, and survival.
+
+Trade becomes leverage. Technology becomes advantage.
+And every decision carries consequences that ripple across worlds.
+
+What began as an extraordinary encounter is quickly becoming something far more dangerous.
+
+Because coexistence is not peace —
+and progress always comes with a price.
+
+Shar-3 continues the story of From a Faraway Star, diving deeper into the realities of power, integration, and the fragile balance between civilizations.
 
 Links:
 - [Amazon US](https://www.amazon.com/dp/B0GJTGSMCC)
