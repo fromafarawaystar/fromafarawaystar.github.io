@@ -3,7 +3,7 @@ layout: home
 lang: en
 title: "Ferdinando Simonetti"
 header:
-  overlay_image: /images/cover1.jpg
+  overlay_image: /images/header.jpg
   overlay_filter: 0.4
   caption: "From a Faraway Star series"
 image: /images/og/og-default.jpg
