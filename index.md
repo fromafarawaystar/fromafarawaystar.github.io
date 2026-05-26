@@ -1,7 +1,7 @@
 ---
 layout: home
 lang: en
-title: "Ferdinando Simonetti"
+title: "From a faraway star"
 header:
   overlay_image: /images/header.jpg
   overlay_filter: 0.4
