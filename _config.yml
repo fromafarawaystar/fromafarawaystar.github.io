@@ -45,8 +45,8 @@ plugins:
   - jekyll-include-cache
   - jekyll-paginate
   - jekyll-feed
-#  - jekyll-seo-tag
-#  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 paginate: 5
 paginate_path: /page:num/
