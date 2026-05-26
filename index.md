@@ -1,11 +1,11 @@
 ---
 layout: home
 lang: en
-title: "From a faraway star"
+title: "From a faraway star - the series"
 header:
   overlay_image: /images/header.jpg
   overlay_filter: 0.4
-  caption: "From a Faraway Star series"
+#  caption: "From a Faraway Star series"
 image: /images/og/og-default.jpg
 ---
 
