@@ -1,15 +1,55 @@
 title: "Ferdinando Simonetti"
 tagline: "Author of the From a Faraway Star series"
-description: "Official author site of Ferdinando Simonetti, Italian writer of science fiction and historically inspired speculative stories."
+
+description: >
+  Official author site of Ferdinando Simonetti,
+  Italian writer of science fiction and historically inspired speculative stories.
+
 url: "https://fromafarawaystar.com"
 baseurl: ""
+
+lang: en-GB
+timezone: Europe/Rome
+
 remote_theme: "mmistakes/minimal-mistakes"
-lang: en
+
+logo: "/images/site-logo.png"
+
+# SEO / structured data
+social:
+  type: Person
+  name: Ferdinando Simonetti
+  links:
+    - https://www.tiktok.com/@writer_rimmon1971
+    - https://www.facebook.com/profile.php?id=61589554118390
+
+author:
+  name: "Ferdinando Simonetti"
+  avatar: "/images/foto-volto.jpg"
+  bio: >
+    Italian author from Genoa, blending imaginative storytelling
+    with a background in engineering and IT.
+  location: "Genoa, Italy"
+
+  links:
+    - label: "TikTok"
+      icon: "fab fa-tiktok"
+      url: "https://www.tiktok.com/@writer_rimmon1971"
+
+    - label: "Facebook"
+      icon: "fab fa-facebook"
+      url: "https://www.facebook.com/profile.php?id=61589554118390"
+
+    - label: "Contact"
+      icon: "fas fa-envelope"
+      url: "/contact/"
 
 plugins:
   - jekyll-include-cache
   - jekyll-paginate
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 paginate: 5
 paginate_path: /page:num/
@@ -17,15 +57,23 @@ paginate_path: /page:num/
 atom_feed:
   path: /feed.xml
 
-author:
-  name: "Ferdinando Simonetti"
-  avatar: "/images/foto-volto.jpg"
-  bio: "Italian author from Genoa, blending imaginative storytelling with a background in engineering and IT."
-  location: "Genoa, Italy"
-  links:
-    - label: "TikTok"
-      icon: "fab fa-tiktok"
-      url: "https://www.tiktok.com/@writer_rimmon1971"
-
 markdown: kramdown
+
 permalink: /:year/:month/:day/:title/
+
+minimal_mistakes_skin: "dark"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+      toc: false
+      show_date: true
+      image: /images/og/default-og.jpg
