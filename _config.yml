@@ -23,9 +23,6 @@ author:
   bio: "Italian author from Genoa, blending imaginative storytelling with a background in engineering and IT."
   location: "Genoa, Italy"
   links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:rimmon197111@gmail.com"
     - label: "TikTok"
       icon: "fab fa-tiktok"
       url: "https://www.tiktok.com/@writer_rimmon1971"
