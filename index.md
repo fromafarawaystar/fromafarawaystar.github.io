@@ -6,6 +6,7 @@ header:
   overlay_image: /images/cover1.jpg
   overlay_filter: 0.4
   caption: "From a Faraway Star series"
+image: /images/og/home-og.jpg
 ---
 
 Welcome to the official site of **Ferdinando Simonetti**, Italian author of the
