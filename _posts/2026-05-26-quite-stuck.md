@@ -11,10 +11,13 @@ tags: [from a faraway star] [rant] [question]
 
 Hello everybody!
 
-Chapter **6** of the third book is going to be one of most *cinematic* of the whole series, so far, probably *the* most cinematic.
+Chapter **6** of the third book is going to be one of the most *cinematic* of the whole series, so far, probably *the* most cinematic.
 
-Problem is... there are too many moving parts, too many ships darting around and exchanging missiles and energy weapons.
+Problem is... There are too many moving parts, too many ships darting around and exchanging missiles and energy weapons.
 
 Fellow authors, are you out there? Especially sci-fi writers, but not only them.
+Readers too: how *your own* favorite battle scenes had unfolded?
 
-How did you manage *your own* big, messy, battle scenes? Focusing on maneuvers? Or trying, instead, to capture the view *from within*, from people not having the *big picture*?
+How did you manage *your own* big, messy, battle scenes? Focusing on maneuvers? Or trying, instead, to capture the view *from within*, from people not having the *big picture*? 
+
+#writing #sci-fi #rant #question
