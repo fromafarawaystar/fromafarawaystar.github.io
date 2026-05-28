@@ -2,8 +2,8 @@
 layout: single
 lang: en
 title: "I wrote myself into a quandary..."
-permalink: /series-advancements/
-date: 2026-05-27
+permalink: /quandary/
+date: 2026-05-28
 excerpt: "Too many moving parts!"
 categories: [series]
 tags: [from a faraway star] [rant] [question]
