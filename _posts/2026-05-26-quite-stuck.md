@@ -2,7 +2,7 @@
 layout: single
 lang: en
 title: "I wrote myself into a quandary..."
-permalink: /series-preview/
+permalink: /series-advancements/
 date: 2026-05-27
 excerpt: "Too many moving parts!"
 categories: [series]
