@@ -6,7 +6,7 @@ permalink: /quandary/
 date: 2026-05-28
 excerpt: "Too many moving parts!"
 categories: [series]
-tags: [from a faraway star] [rant] [question]
+tags: ["from a faraway star","rant","question"]
 ---
 
 Hello everybody!
